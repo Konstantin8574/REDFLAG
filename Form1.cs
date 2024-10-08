@@ -1,5 +1,5 @@
 ﻿using System;
-using System;
+using System; //2 раза using
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -46,11 +46,11 @@ namespace DONOR3
         }
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            // неиспользуется
         }
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-
+            // неиспользуется
         }
 
         private void button1_Click(object sender, EventArgs e)

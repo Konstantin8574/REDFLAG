@@ -10,6 +10,11 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
+
+//каждый метод подключается бд
+//Нет try и catch в местах подключения к Бд
+
+
 namespace DONOR3
 {
     public partial class Form2 : Form
